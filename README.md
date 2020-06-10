@@ -112,7 +112,7 @@ Common Word <AGAINST> occurs 6 times
 - [X] Sort hashmap by value in descending order
   - [X] Convert hashmap to ArrayList
   - [X] Sort ArrayList by value in reverse sort order
-- [ ] Print the first 50 entries in the sorted hashmap
+- [X] Print the first 50 entries in the sorted hashmap
 
 
 ---
