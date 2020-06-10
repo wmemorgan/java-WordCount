@@ -103,12 +103,12 @@ Common Word <AGAINST> occurs 6 times
 ```
 
 ### Algorithm (MVP)
-- [ ] Parse text
+- [X] Parse text
   - [X] Convert to uppercase
   - [X] Remove punctuation
-  - [ ] Place words in a List or ArrayList
-- [ ] Create a hashmap
-  - [ ] Populate hashmap with words from List/ArrayList (key = word, value = number of occurences)
+  - [X] Place words in an array
+- [X] Create a hashmap
+  - [X] Populate hashmap with words from List/ArrayList (key = word, value = number of occurences)
 - [ ] Sort hashmap by value in descending order
   - [ ] Convert hashmap to ArrayList
   - [ ] Sort ArrayList by value in reverse sort order
