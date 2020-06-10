@@ -109,9 +109,9 @@ Common Word <AGAINST> occurs 6 times
   - [X] Place words in an array
 - [X] Create a hashmap
   - [X] Populate hashmap with words from List/ArrayList (key = word, value = number of occurences)
-- [ ] Sort hashmap by value in descending order
-  - [ ] Convert hashmap to ArrayList
-  - [ ] Sort ArrayList by value in reverse sort order
+- [X] Sort hashmap by value in descending order
+  - [X] Convert hashmap to ArrayList
+  - [X] Sort ArrayList by value in reverse sort order
 - [ ] Print the first 50 entries in the sorted hashmap
 
 
