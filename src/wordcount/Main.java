@@ -36,6 +36,7 @@ public class Main {
         int count = 1;
         // Print by word frequency
         System.out.println("\nTop " + limit + " words\n");
+        System.out.println("\n*** Sorted by Word Frequency ***");
         for (HashMap.Entry mapElem : sortedWordMap) {
             if (count > limit)
                 break;
