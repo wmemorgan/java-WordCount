@@ -118,7 +118,8 @@ Common Word <AGAINST> occurs 6 times
 ---
 ## Stretch Goals
 
-* [ ] Print to the console the top 50 appearing words alphabetically. Do include their counts.
+* [X] Read and import text from a separate file.
+* [X] Print to the console the top 50 appearing words alphabetically. Do include their counts.
 
 Output should be something like
 
